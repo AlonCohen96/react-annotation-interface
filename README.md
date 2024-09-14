@@ -5,7 +5,7 @@
 
 ![](src/assets/demo.png)
 
-## 🦜[Live Demo](http://annotation.evolvinglanguage.ch/)🐒
+## 🦜[Live Demo](https://annotation.evolvinglanguage.ch/)🐒
 
 ## About this App
 
